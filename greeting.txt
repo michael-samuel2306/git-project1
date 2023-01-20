@@ -1,0 +1,3 @@
+Hello, Hamoye!
+
+My name is Michael Samuel. This is my first project on git  and github.
